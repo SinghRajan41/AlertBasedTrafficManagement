@@ -1,0 +1,20 @@
+1,Oradea
+2,Zerind
+3,Sibiu
+4,Ara
+5,Neamt 
+6,Fagaras
+7,Rimmicu Vilcea
+8,Timisoara
+9,Lugoj
+10,Pitese
+11,Craiova
+12,Dobreta
+13,Mehadia
+14,Giurgiu
+15,Bucharest
+16,Eforie
+17,Hirsova
+18,Urziceni
+19,Vaslui
+20,Lasi

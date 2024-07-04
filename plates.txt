@@ -1,0 +1,13 @@
+HR26BC5514,Alice White,Small,7440567567,alice@gmail.com 
+KLO1CA2555,Shrey Upadhyay,Medium,9450970568,shrey@gmail.com  
+MHO1AV8866,Rajan Singh,Large,7880568503,singhrajan95858@gmail.com  
+TN99F2378,Ivy Scott,Small,098764321,socttivy@gmail.com  
+CZI7KOD,Madhu Singh,Medium,1233211234,madhu@gmail.com  
+KL65H4383,Mouse Fox,Medium,9879877891,mouse1@gmail.com
+KA03MG,Rohit Kumar,Large,4576324567,rohit@gmail.com  
+MH15B08877,Ishita Agarwal,Medium,1247432567,ishita@gmail.com  
+G526JHD,Shivam Kumar,Small,8623764589,shivam@gmail.com  
+DL3CBF3907,Teddy Bear,Large,2957275629,teddy@gmail.com
+
+
+
